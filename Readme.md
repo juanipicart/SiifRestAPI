@@ -126,5 +126,5 @@ Por ejemplo: consumo de CPU, consumo de memoria, IO, memory leak, gráficos de t
 <br />
 
     
-![alt text](../SiifRestAPI/img/donut.png)
+![alt text](https://github.com/ArkSoftSystems/SiifRestAPI/blob/master/img/donut.png)
 
