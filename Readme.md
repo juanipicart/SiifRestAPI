@@ -125,6 +125,6 @@ Por ejemplo: consumo de CPU, consumo de memoria, IO, memory leak, gráficos de t
 *[Respuesta]* Consumo de CPU y memoria por componente, y un gráfico con los tiempos de respuesta de las llamadas al Rest API, tabla con los tiempos de respuesta de los botones de alta de bien y de aprobación para las distintas configuraciones de carga y diferente configuración de despliegue (1 o 2 nodos).
 <br />
 
-
-![alt text](../img/donut.png)
+    
+![alt text](../SiifRestAPI/img/donut.png)
 
